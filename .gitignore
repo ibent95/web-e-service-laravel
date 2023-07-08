@@ -1,6 +1,8 @@
 /.fleet
 /.idea
 /.vscode
+/.phpintel
+/.settings
 
 /vendor/
 node_modules/
@@ -27,6 +29,8 @@ storage/*.key
 .env
 .env.backup
 .env.production
+.buildpath
+.project
 Homestead.yaml
 Homestead.json
 /.vagrant
